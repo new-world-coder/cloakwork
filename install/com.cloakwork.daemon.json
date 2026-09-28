@@ -1,0 +1,9 @@
+{
+  "name": "com.cloakwork.daemon",
+  "description": "CloakWork native messaging host",
+  "path": "/ABS/PATH/TO/cloakwork-host",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://EXTENSION_ID_PLACEHOLDER/"
+  ]
+}

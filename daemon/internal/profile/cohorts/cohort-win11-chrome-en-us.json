@@ -1,0 +1,31 @@
+{
+  "id": "cohort-win11-chrome-en-us",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "userAgentData": {
+    "brands": [
+      {"brand": "Chromium", "version": "131"},
+      {"brand": "Google Chrome", "version": "131"},
+      {"brand": "Not_A Brand", "version": "24"}
+    ],
+    "mobile": false,
+    "platform": "Windows",
+    "platformVersion": "15.0.0",
+    "architecture": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  "platform": "Win32",
+  "locale": "en-US",
+  "languages": ["en-US", "en"],
+  "timeZone": "America/New_York",
+  "timezoneOffsetMinutes": 300,
+  "screen": {"width": 1920, "height": 1080, "devicePixelRatio": 1},
+  "hardwareConcurrency": 8,
+  "deviceMemory": 8,
+  "webgl": {
+    "vendor": "Google Inc. (Intel)",
+    "renderer": "ANGLE (Intel, Intel(R) UHD Graphics Direct3D11 vs_5_0 ps_5_0, D3D11)"
+  },
+  "webRtcPolicy": "disable_non_proxied_udp",
+  "fonts": ["Arial", "Segoe UI", "Times New Roman", "Courier New", "Verdana", "Tahoma", "Georgia"]
+}
